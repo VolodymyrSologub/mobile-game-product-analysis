@@ -21,7 +21,7 @@ This project simulates the end-to-end workflow of a Product Data Analyst in the 
 * **Data Consistency**: Ensured accurate cross-table calculations by handling synthetic timestamps and unique identifiers across three distinct datasets.
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview]([Знімок екрана 2026-05-18 182816](https://github.com/VolodymyrSologub/mobile-game-product-analysis/blob/main/images/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-05-18%20182816.png).png)
+![Dashboard Preview](images/Знімок екрана 2026-05-18 182816.png)
 
 ---
 **Author:** Volodymyr Voldymyrovych Sologub  
