@@ -21,7 +21,7 @@ This project simulates the end-to-end workflow of a Product Data Analyst in the 
 * **Data Consistency**: Ensured accurate cross-table calculations by handling synthetic timestamps and unique identifiers across three distinct datasets.
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](imagesdashboard_preview.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 **Author:** Volodymyr Voldymyrovych Sologub  
