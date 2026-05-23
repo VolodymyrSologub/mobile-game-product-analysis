@@ -1,6 +1,6 @@
 # 📊 Mobile Game Product Analysis: From Data Generation to Tableau Dashboard
 
-### [🔗 View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/MobileGamePerformanceDashboard_17791201514170/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [🔗 View Interactive Dashboard on Tableau Public]([https://public.tableau.com/views/MobileGamePerformanceDashboard_17791201514170/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/MobileGamePerformanceDashboard_17791201514170/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎯 Project Overview
 This project simulates the end-to-end workflow of a Product Data Analyst in the gaming industry. It covers the entire pipeline: generating synthetic user data, processing it via SQL for deep insights, and building a professional dashboard to visualize key business metrics.
